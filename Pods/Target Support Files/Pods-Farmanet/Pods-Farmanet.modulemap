@@ -1,0 +1,6 @@
+framework module Pods_Farmanet {
+  umbrella header "Pods-Farmanet-umbrella.h"
+
+  export *
+  module * { export * }
+}
